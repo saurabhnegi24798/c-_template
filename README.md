@@ -1,2 +1,2 @@
-# c-_template
+# c++_template
 Coding tempate in c++ in competitive programming
